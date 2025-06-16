@@ -5,6 +5,8 @@ public class DiagonalStar{
     public static void printSquareStar(int n){
         if(n<5){
             System.out.println("Invalid Value");
+            System.out.println("Invalid Value");
+            System.out.println("Invalid Value");
             return;
         }
         for (int i=1;i<=n;i++){
